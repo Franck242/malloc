@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/PSU_2017_malloc.dir/src/all_functions.c.o CMakeFiles/PSU_2017_malloc.dir/src/calloc.c.o CMakeFiles/PSU_2017_malloc.dir/src/malloc_fit.c.o CMakeFiles/PSU_2017_malloc.dir/src/show_alloc_mem.c.o  -o PSU_2017_malloc 
